@@ -42,5 +42,9 @@
 
 ![](./images/clipper1.png)
 
+# クリップタイプ
+
+![](./images/clipper2.png)
+
 
 
