@@ -38,11 +38,11 @@
 
 <hr>
 
-# クリッパーはさみタイプ
+# クリップタイプ
 
 ![](./images/clipper1.png)
 
-# クリップタイプ
+# はさみタイプ
 
 ![](./images/clipper2.png)
 
